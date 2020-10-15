@@ -1,5 +1,5 @@
-### Olá, Paulo aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :wave:
-## I'm ChungZH! :wave:
+## Olá, Paulo aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> :wave:
+ 
 
 <!--
 **henriques4nti4go/henriques4nti4go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
