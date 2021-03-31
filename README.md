@@ -6,6 +6,10 @@
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=henriques4nti4go&count_private=true&show_icons=true&theme=monokai&line_height=33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriques4nti4go&theme=monokai&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **henriques4nti4go/henriques4nti4go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
