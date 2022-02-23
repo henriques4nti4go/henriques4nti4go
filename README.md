@@ -24,5 +24,13 @@ Anyway, what I really hope to achieve in this world is to build something, somet
   <img alt="reactNative" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=henriques4nti4go&show_icons=true&theme=gotham" alt="henriques4nti4go" />
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
 
