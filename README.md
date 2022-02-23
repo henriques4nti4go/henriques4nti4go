@@ -6,7 +6,7 @@ I love to create things, there's no better feeling than seeing something you've 
 Anyway, what I really hope to achieve in this world is to build something, something that works well.
 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+  <img align="right" margin="10px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
 
 **languages and tools:**  
 <p>
