@@ -23,5 +23,6 @@ Anyway, what I really hope to achieve in this world is to build something, somet
   <img alt="reactNative" src="https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henriques4nti4go&show_icons=true&theme=gotham" alt="henriques4nti4go" />
 
