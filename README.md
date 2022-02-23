@@ -21,7 +21,5 @@ Anyway, what I really hope to achieve in this world is to build something, somet
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 my github stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=henriques4nti4go&show_icons=true&theme=gotham" alt="henriques4nti4go" />
 
