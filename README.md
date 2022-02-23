@@ -5,6 +5,9 @@ My name is Paulo Henrique, a Brazilian software developer. I started as a backen
 I love to create things, there's no better feeling than seeing something you've imagined working. But creating is a complex and perpetual process, it's never good enough and it's never done either.
 Anyway, what I really hope to achieve in this world is to build something, something that works well.
 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
