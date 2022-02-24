@@ -1,7 +1,10 @@
 # be welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-My name is Paulo Henrique, a Brazilian software developer. I started as a backend developer, but on this journey I ended up messing with everything, backend, frontend, mobile, depending on my mood and need. I'm not good at saying no to things, especially in this environment where startups appear at every moment, where you almost always have contact with all the parties involved and who make you believe and even dream together about the same idea. Creating expectations of how much you can contribute is almost inevitable.
+My name is Paulo Henrique, a Brazilian software developer. I started as a backend developer, but on this journey I ended up messing with everything, backend, frontend, mobile, depending on my mood and need. 
+
+I'm not good at saying no to things, especially in this environment where startups appear at every moment, where you almost always have contact with all the parties involved and who make you believe and even dream together about the same idea. Creating expectations of how much you can contribute is almost inevitable.
+
 I love to create things, there's no better feeling than seeing something you've imagined working. But creating is a complex and perpetual process, it's never good enough and it's never done either.
 Anyway, what I really hope to achieve in this world is to build something, something that works well.
 
