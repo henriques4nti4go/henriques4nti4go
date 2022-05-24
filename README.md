@@ -29,6 +29,6 @@ Anyway, what I really hope to achieve in this world is to build something, somet
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriques4nti4go&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriques4nti4go&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriques4nti4go&layout=compact&theme=radical" />
 
