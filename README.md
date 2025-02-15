@@ -1,7 +1,7 @@
 # be welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm Paulo Henrique, a Brazilian software developer passionate about technology and creation. My career began in the backend, but over time I explored different areas, such as frontend and mobile development. This curiosity has allowed me to acquire a range of skills, but I recognize the importance of having focus and choosing projects that truly challenge my abilities.
+Hi, I'm Paulo Henrique, a Brazilian software developer.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
 
