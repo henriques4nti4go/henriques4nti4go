@@ -1,9 +1,7 @@
 # be welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Hi, I'm Paulo Henrique, a Brazilian software developer.
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+Brazilian software developer.
 
 **languages and tools:**  
 <p>
